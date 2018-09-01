@@ -3,6 +3,13 @@
 
 Pure Javascript/Jquery application to develop, play and manage drum pattern sequences.
 
+The main purpose of this project is to provide a simple, cohesive interface for creating custom drum loops, to be used as backing tracks for musicians. 
+
+Can also be used as a method for aspiring music producers without (technical knowledge of) DAWs to practice sequencing.
+
+Or just to kill time.
+
+*
 
 Makes use of the following technologies:
 
@@ -45,12 +52,3 @@ User is unable to upload their own samples to use in the application. There are 
 Projects cannot be shared unless user sends .zip file manually (over e-mail, USB, Cloud etc.).
 
 Sequencer A is not responsive for mobile (as of 01/09/2018).
-
-
-
-
-The main purpose of this project is to provide a simple, cohesive interface for creating custom drum loops, to be used as backing tracks for musicians. 
-
-Can also be used as a method for aspiring music producers without (technical knowledge of) DAWs to practice sequencing.
-
-Or just to kill time.
