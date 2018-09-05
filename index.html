@@ -13,27 +13,14 @@
 
     $(function() {  
     
+      $(".fa-cube").on("click",function() {
+      sound.play();
+      swal("bugger");
+      
+    });
+      
 var sound = new Howl({
   src: ['https://raw.githubusercontent.com/AdamKB/Sequencer-A/master/Bongo1.wav']
-});
-
-var items = {
-  firstCommand: itemOptions,
-  separator1: "-----",
-  separator2: { "type": "cm_separator" },
-  command2: itemOptions
-}
-      
-$.contextMenu({
-    selector: '.context-menu',
-    items: {
-        copy: {
-            name: "Copy",
-            callback: function(key, opt){
-                swal("Clicked on " + key);
-            }
-        }
-    }
 });
       
       });
