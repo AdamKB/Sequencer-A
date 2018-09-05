@@ -18,7 +18,9 @@ var sound = new Howl({
   src: ['https://raw.githubusercontent.com/AdamKB/Sequencer-A/master/Bongo1.wav']
 });
 
-    $.contextMenu();
+    $.contextMenu({
+    selector: 'span.context-menu'
+});
       
       });
   </script>
@@ -33,7 +35,7 @@ var sound = new Howl({
 
   <i class="fa fa-cube"></i>
   
-  
+                       <span class="context-menu"></span>
   
 </body>
 
