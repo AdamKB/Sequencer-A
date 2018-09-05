@@ -1,0 +1,11 @@
+<script type="text/javascript">
+
+$(function() {
+    
+    $(".fa-cube").on("click",function() {
+      sound.play();
+      swal("bugger");
+      
+    });
+    
+</script>
