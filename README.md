@@ -1,7 +1,7 @@
 # Sequencer-A
 
 
-Pure Javascript/Jquery application to develop, play and manage drum pattern sequences.
+Pure Javascript/JQuery application to develop, play and manage drum pattern sequences.
 
 The main purpose of this project is to provide a simple, cohesive interface for creating custom drum loops, to be used as backing tracks for musicians. 
 
