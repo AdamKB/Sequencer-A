@@ -9,7 +9,7 @@ Can also be used as a method for aspiring music producers without (technical kno
 
 Or just to kill time.
 
-                                                                *
+                                                                
 
 Makes use of the following technologies:
 
